@@ -1,0 +1,16 @@
+.content {
+    margin-top: 20px;
+    margin-bottom: 20;
+    background-color: gray;
+    padding: 20px;
+    width: 100px;
+    
+}
+
+#display {
+    width: 100%;
+}
+
+#slider {
+    width: 100%;
+}
